@@ -4,7 +4,7 @@
 # Self-Supervised Papers
 Sim-CLR: [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)<br />
 SupCon: [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)<br />
-MoCo: [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722) and [v2](https://arxiv.org/abs/2003.04297v1)
+MoCo: [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722) and [v2](https://arxiv.org/abs/2003.04297v1)<br />
 BYOL: [Bootstrap your own latent](https://arxiv.org/abs/2006.07733)<br />
 InfoNCE: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748v2)<br />
 
