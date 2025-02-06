@@ -22,6 +22,13 @@ BigGAN: [Large Scale GAN Training for High Fidelity Natural Image Synthesis](htt
 DM: [Denoising Diffusion Probabilistic Models](https://doi.org/10.48550/arXiv.2006.11239)<br />
 LDM: [High-Resolution Image Synthesis with Latent Diffusion Models](https://doi.org/10.48550/arXiv.2112.10752)<br />
 
+# Graph Neural Networks <br />
+
+GNNsurvey: [A Comprehensive Survey on Graph Neural Networks](https://doi.org/10.1109/TNNLS.2020.2978386)<br/>
+Node2vec: [Node2vec: Scalable feature learning for networks](https://doi.org/10.1145/2939672.2939754)<br/>
+GCN: [Semi-Supervised Classification with Graph Convolutional Networks](https://doi.org/10.48550/arXiv.1609.02907)<br/>
+GAT: [Graph Attention Networks](https://doi.org/10.48550/arXiv.1710.10903)<br/>
+ 
 # Multimodal AI
 
 ## Multimodal Fusion Architectures
