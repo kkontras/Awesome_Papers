@@ -1,4 +1,4 @@
-# Awesome Papers Biomed KULeuven
+# Awesome Papers Biomed KU Leuven
 
 
 ## Self-Supervised Learning <br />
