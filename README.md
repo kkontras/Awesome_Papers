@@ -62,4 +62,7 @@ SleepTransformer: []()<br />
 CoRe-Sleep: []()<br />
 L-SeqSleepNet: []()<br />
 
+<br /> <br />
+Contributors: Konstantinos Kontras, Thomas Strypsteen, Emmanouil Kargiotakis, Lore Van Santvliet
+
 
