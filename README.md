@@ -1,4 +1,4 @@
-# Awesome_Papers
+# Awesome Papers Biomed KULeuven
 
 
 ## Self-Supervised Learning <br />
@@ -8,6 +8,33 @@ SupCon: [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)<br /
 MoCo: [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722) and [v2](https://arxiv.org/abs/2003.04297v1)<br />
 BYOL: [Bootstrap your own latent](https://arxiv.org/abs/2006.07733)<br />
 InfoNCE: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748v2)<br />
+
+
+# Generative AI <br />
+
+## Gen AI - Generative Adversarial Networks <br />
+WGAN: [Wasserstein GAN](https://doi.org/10.48550/arXiv.1701.07875)<br />
+WGAN-GP: [Improved Training of Wasserstein GANs](https://doi.org/10.48550/arXiv.1704.00028)<br />
+ProGAN: [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://doi.org/10.48550/arXiv.1710.10196)<br />
+StyleGAN: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://doi.org/10.48550/arXiv.1812.04948)<br />
+BigGAN: [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://doi.org/10.48550/arXiv.1809.11096)<br />
+ 
+## Gen AI - Diffusion Models <br />
+DM: [Denoising Diffusion Probabilistic Models](https://doi.org/10.48550/arXiv.2006.11239)<br />
+LDM: [High-Resolution Image Synthesis with Latent Diffusion Models](https://doi.org/10.48550/arXiv.2112.10752)<br />
+
+# AI on Biomedical<br />
+
+## Digital Twins and Modeling
+Cardiac DTs: [The ‘Digital Twin’ to enable the vision of precision cardiology](https://doi.org/10.1093/eurheartj/ehaa159)<br />
+Virtual cohorts: [Creation and application of virtual patient cohorts of heart models](https://doi.org/10.1098/rsta.2019.0558)<br />
+Cardiac DTs of electrophysiology: [A Framework for the generation of digital twins of cardiac electrophysiology from clinical 12-leads ECGs](https://doi.org/10.1016/j.media.2021.102080)<br />
+
+## Sleep Staging
+XSleepnet: []()<br />
+SleepTransformer: []()<br />
+CoRe-Sleep: []()<br />
+L-SeqSleepNet: []()<br />
 
 
 ## Multimodal Fusion Architectures
