@@ -9,7 +9,6 @@ MoCo: [Momentum Contrast for Unsupervised Visual Representation Learning](https:
 BYOL: [Bootstrap your own latent](https://arxiv.org/abs/2006.07733)<br />
 InfoNCE: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748v2)<br />
 
-
 # Generative AI <br />
 
 ## Gen AI - Generative Adversarial Networks <br />
@@ -23,19 +22,7 @@ BigGAN: [Large Scale GAN Training for High Fidelity Natural Image Synthesis](htt
 DM: [Denoising Diffusion Probabilistic Models](https://doi.org/10.48550/arXiv.2006.11239)<br />
 LDM: [High-Resolution Image Synthesis with Latent Diffusion Models](https://doi.org/10.48550/arXiv.2112.10752)<br />
 
-# AI on Biomedical<br />
-
-## Digital Twins and Modeling
-Cardiac DTs: [The ‘Digital Twin’ to enable the vision of precision cardiology](https://doi.org/10.1093/eurheartj/ehaa159)<br />
-Virtual cohorts: [Creation and application of virtual patient cohorts of heart models](https://doi.org/10.1098/rsta.2019.0558)<br />
-Cardiac DTs of electrophysiology: [A Framework for the generation of digital twins of cardiac electrophysiology from clinical 12-leads ECGs](https://doi.org/10.1016/j.media.2021.102080)<br />
-
-## Sleep Staging
-XSleepnet: []()<br />
-SleepTransformer: []()<br />
-CoRe-Sleep: []()<br />
-L-SeqSleepNet: []()<br />
-
+# Multimodal AI
 
 ## Multimodal Fusion Architectures
 ### Basic <br />
@@ -53,5 +40,19 @@ OGM: [Balanced Multimodal Learning via On-the-fly Gradient Modulation](https://a
 MLB: [Improving Multimodal Learning with Multi-Loss Gradient Modulation](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_977/paper.pdf)<br />
 MCR: [Multimodal Fusion Balancing Through Game-Theoretic Regularization](https://arxiv.org/abs/2411.07335)<br />
 
+
+
+# AI on Biomedical<br />
+
+## Digital Twins and Modeling
+Cardiac DTs: [The ‘Digital Twin’ to enable the vision of precision cardiology](https://doi.org/10.1093/eurheartj/ehaa159)<br />
+Virtual cohorts: [Creation and application of virtual patient cohorts of heart models](https://doi.org/10.1098/rsta.2019.0558)<br />
+Cardiac DTs of electrophysiology: [A Framework for the generation of digital twins of cardiac electrophysiology from clinical 12-leads ECGs](https://doi.org/10.1016/j.media.2021.102080)<br />
+
+## Sleep Staging
+XSleepnet: []()<br />
+SleepTransformer: []()<br />
+CoRe-Sleep: []()<br />
+L-SeqSleepNet: []()<br />
 
 
